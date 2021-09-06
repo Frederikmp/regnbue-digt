@@ -5,4 +5,5 @@ Gul
 Grøn
 Blå
 Orange 
+Lilla 
 Dette er farverne i min regnbue 
