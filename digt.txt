@@ -4,6 +4,7 @@ Rød
 Gul
 Grøn
 Blå
+Indigo
 Orange 
 Unicorn
 Lilla 
